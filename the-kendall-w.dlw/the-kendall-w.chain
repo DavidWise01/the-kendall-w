@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1871
+slug  : the-kendall-w
+seal  : 6c504aaa37d9c140c09620fa6b1791e8899d03a9ea2a3c2f0f5b3338cc573bcf
+prev  : eab5def99e7297adb8e5e354093d47ec1dad85fba9af108491f953e2226150fe
+link  : 3dcda9c21221e343799f91e47cb859f529984a238de25655fa26c19b7c9232d2
+head  : 59d320fb12b80b358c1078a985f2c9c38e80307bb8ed4bee318cd9664e66b7fd
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
